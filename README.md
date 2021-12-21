@@ -1,2 +1,2 @@
 # JS-DataStructures-Course
-udemy colt steele course
+udemyCourse - colt steele 
